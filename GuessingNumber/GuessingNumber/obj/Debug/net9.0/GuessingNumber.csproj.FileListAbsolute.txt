@@ -1,0 +1,14 @@
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\bin\Debug\net9.0\GuessingNumber.exe
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\bin\Debug\net9.0\GuessingNumber.deps.json
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\bin\Debug\net9.0\GuessingNumber.runtimeconfig.json
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\bin\Debug\net9.0\GuessingNumber.dll
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\bin\Debug\net9.0\GuessingNumber.pdb
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.AssemblyInfoInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.AssemblyInfo.cs
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.csproj.CoreCompileInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.dll
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\refint\GuessingNumber.dll
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.pdb
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\GuessingNumber.genruntimeconfig.cache
+D:\2025_26-semester\C#learning\SmallProjects\GuessingNumber\GuessingNumber\obj\Debug\net9.0\ref\GuessingNumber.dll
