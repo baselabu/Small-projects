@@ -1,0 +1,14 @@
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\bin\Debug\net9.0\Shape of Area.exe
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\bin\Debug\net9.0\Shape of Area.deps.json
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\bin\Debug\net9.0\Shape of Area.runtimeconfig.json
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\bin\Debug\net9.0\Shape of Area.dll
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\bin\Debug\net9.0\Shape of Area.pdb
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.AssemblyInfoInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.AssemblyInfo.cs
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.csproj.CoreCompileInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.dll
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\refint\Shape of Area.dll
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.pdb
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\Shape of Area.genruntimeconfig.cache
+D:\2025_26-semester\C#learning\SmallProjects\Shape of Area\Shape of Area\obj\Debug\net9.0\ref\Shape of Area.dll
