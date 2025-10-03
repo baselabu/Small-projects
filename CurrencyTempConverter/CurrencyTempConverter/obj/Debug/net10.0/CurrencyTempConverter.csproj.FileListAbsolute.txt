@@ -1,0 +1,14 @@
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\bin\Debug\net10.0\CurrencyTempConverter.exe
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\bin\Debug\net10.0\CurrencyTempConverter.deps.json
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\bin\Debug\net10.0\CurrencyTempConverter.runtimeconfig.json
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\bin\Debug\net10.0\CurrencyTempConverter.dll
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\bin\Debug\net10.0\CurrencyTempConverter.pdb
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.AssemblyInfoInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.AssemblyInfo.cs
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.csproj.CoreCompileInputs.cache
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.dll
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\refint\CurrencyTempConverter.dll
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.pdb
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\CurrencyTempConverter.genruntimeconfig.cache
+D:\2025_26-semester\C#learning\SmallProjects\CurrencyTempConverter\CurrencyTempConverter\obj\Debug\net10.0\ref\CurrencyTempConverter.dll
